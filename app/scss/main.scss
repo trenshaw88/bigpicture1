@@ -1,0 +1,21 @@
+$bg-color: #f0f5f9;
+$text-color: #1e2022;
+$text-font: 'Roboto', sans-serif;
+$headline-font: 'Droid Serif', serif;
+$headline-color: #52616a;
+
+
+body {
+  background-color: $bg-color;
+  font-family: $text-font;
+  color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headline-font;
+  color: $headline-color;
+}
+
+p {
+	
+}
